@@ -1,19 +1,191 @@
-TOEFL: for American Universities
-IELTS: for UK, Australia and other countries from the Commonwealth. 
-===============================================================================
+## VISA and Immigration: ===============================
+USA: 
+	H1B -> PR (Permanent Residency) by holding GC (Green Card), after long process of getting GC via Employer -> US Citizen (after 5 years holding GC)
+	Student Visa (F1): Not an option
+		- Cannot accept off-campus part-time job. 
+ 		- Spouse cannot work. 
+                - Cost: 25L opportunity cost for 2 years + additional 50L investment
+	H1B Visa: 
+                - http://redbus2us.com/
+		- You get it for 6 years
+		- Good Way: Do well in your project/product and ask your employer to sponsor H1B
+        F1 Visa: 
+                - Give GRE, IELTS/TOEFL
+                - Study Big Data, Algorithms, or something which is very niche
+                - Automatically get H1B Visa and finally end-up into organizatoins such as Google with heavy pay scale.
+Canada:
+	Permanent Entry Visa: "Express Entry" system for skilled foreign workers who are applying for PR to Canada through FSWP (Federal Skilled Workers Program)
+	Work Visa: Don't go for it. 
+	But there are few issues: 
+		- Canada is country of highly qualified & experienced professional but mostly unemployed or under employed
+		- Canada is too cold in winters
+		- Many times employer needs proficiency in English + French both
+		- Many times employer needs Canadian experience from candidate
+		- Job opportunities are better for IT as compared to management and administration positions
+                - Salaries are far less (as compared to US) in Canada: Max. CAD IL
+	References: 
+		http://www.canadavisa.com/
+                http://www.canadavisa.com/canadian-immigration-faq.html
+Australia: Not an option because: 
+		- Isolated from Asia, Europe and US
+		- High Racism as majority is white
+		- http://britishexpats.com/forum/canada-56/canada-vs-australia-180237/
+Germany:
+        Student Visa:
+
+
+MS in Computer Science:
+        - Study Big Data, Algorithms, or something which is very niche
+        - Check for countries where you can work part-time/full-time off-campus
+        - If you can work part-time/full-time off-campus choose general subject for MS, such as Algorithms.
+        - If you have to work part-time within campus, choose course by which you can land a job in big companies such as Google
+        - Depending on University, IELTS/TOEFL/GRE are required.
+        - Possible countries: USA, Germany, Canada (Choose a country where you want to sattle down).
+        - Note: Settling down in US will be kind of lottery even after MS (because of 20K cap on H1B).
+        - Note: In Canada, you don't get paid much and job opportunities are not that great (as compared to US).
+
+## English Exams: ======================================
+TOEFL: 
+  - Note that for Canadian immigration only IELTS (General, not Academic) is accepted, not TOEFL
+  - Test of English as Foreign Language
+  - Offers only academic english
+  - For American Universities
+  - Score valid for 2 years
+  - Computer based exam, all MCQs, you interact with computer
+  - Duration: 4 hrs
+  - Score out of 120 (you need atleast 85)
+IELTS: 
+  - International English Language Testing System
+  - Offers both academic english (tough) as well as general test (easy)
+  - For UK, Australia and other countries from the Commonwealth. 
+  - Score valid for 2 years
+  - Paper based exam (You need to scribble), different type of questions (MCQ, gap filling, short essay, etc.), you interact with examiner. 
+  - Duration: 2 hrs + 40 mins
+  - Rating between 0 to 9 (you need atleast 6.5)
+  - IELTS General Training Exam Pattern:
+    - Speaking
+      - Time: 11-14 minutes
+      - Part 1: Introduction and Interview (4-5 minutes)
+      - Part 2: Individual Long Run (3-4 minutes)
+      - Part 3: Two-way discussion (4-5 minutes)
+    - Listening
+      - Time: 30 minutes + 10 minutes transfer time
+      - 40 questions of 1 mark each
+      - Section 1: Dialog
+      - Section 2: Monolog
+      - Section 3: Conversation between upto four people
+      - Section 4: Monolog on an academic subject
+      - Note: Each section is heard only once
+    - General Training Reading
+      - Time: 60 minutes
+      - 40 questions of 1 mark each
+      - Section 1: 
+      - Section 2: 
+      - Section 3: 
+    - General Training Writing
+      - Time: 60 minutes
+      - 2 tasks
+      - Task 1: Atleast 150 words
+      - Task 2: Atleast 250 words
+      - Note: Task 2 contributes twice as much as Task 1 to writing score
+    Note: If you provide proof of your application to CIC (Citizenship and Immigration Canada), you will get one addition Test Report Format (TRF). This can be done afterwards as well. 
+Note: People generally say IELTS is easier than TOEFL. IELTS exam tend to follow same pattern again and again. In TOEFL it is tough to maintain concentration for 60 min listening session, whereas IELTS listening section is only for 30 mins. 
+References:
+  http://ieltsadvantage.com/2015/06/17/ielts-vs-toefl-which-is-easier/
+
+## GMAT: ===============================================
 GMAT Books: 
 http://gmatclub.com/forum/best-gmat-books-118706.html
----
+
 GMAT preparation from Sandeep Gupta: 
   http://top-one-percent.com/
   http://the-bold-you.blogspot.in/
   GMAT Intro Session by Sandeep Gupa (youtube)
   http://ivy-gmat.blogspot.ae/?m=1
+
 Manhatten Series for Mock exams
----
+
 GMAT coaching: Jamboree
----
+
 Other GMAT resources: 
-http://gmatclub.com/forum/gmat-study-plan-how-to-start-your-gmat-prep-80727.html
----
+  http://gmatclub.com/forum/gmat-study-plan-how-to-start-your-gmat-prep-80727.html
+
+## Immigration to Canada: ==============================
+Some Facts: 
+Apply as "Federal Skilled Worker" through "Express Entry System". Refer: http://www.cic.gc.ca/english/immigrate/skilled/apply-who.asp
+  - Refer: http://www.cic.gc.ca/english/immigrate/skilled/index.asp
+  - Refer: http://www.cic.gc.ca/english/immigrate/skilled/apply-who.asp
+  - Refer: http://www.cic.gc.ca/english/immigrate/skilled/apply-factors.asp
+My "NOC Skill Type": 2 (Natural and applied sciences and related occupations). Refer: http://www5.hrsdc.gc.ca/NOC/English/NOC/2011/Tutorial.aspx
+My "NOC Skill Level": A (University Education). Refer: http://www5.hrsdc.gc.ca/NOC/English/NOC/2011/Tutorial.aspx
+NOC Code: 217 (2173, or 2175) (Computer and Information System Professionals). 
+  - Refer: http://www.statcan.gc.ca/pub/12-583-x/12-583-x2011001-eng.pdf
+  - Refer: http://www5.hrsdc.gc.ca/NOC/English/NOC/2011/QuickSearch.aspx?val65=*
+  - Refer: http://www.cic.gc.ca/english/immigrate/skilled/noc.asp
+* Language Testing: 
+  - Max. points: 28 = 24 (Main Language) + 4 (Second Language). For me, main language is English, whereas second lanaguage is French
+  - Refer: http://www.cic.gc.ca/english/immigrate/skilled/language-testing.asp
+  - Note: "6/10 in IELTS" = "7/10 in CLB". Refer: http://www.cic.gc.ca/english/resources/tools/language/charts.asp
+  - IELTS General Training (7/10)
+  - 7CLB -> 16, 8CLB -> 20, 9CLB -> 24
+  - Note: You can only get four points in total for basic-level skills in your second official language, and only if you have a score of at least CLB 5 in each of the four language abilities.
+* Education: 
+  - Max. points: 25
+  - For relevant B.Tech you get 21 points
+  - For relevant PG you get 2 additional points
+  - Foreign Education Assessment: http://www.cic.gc.ca/english/immigrate/skilled/assessment.asp
+* Experience: 
+  - Max. points: 15
+  - For 4-5 years: 13
+  - For 2-3 years: 11
+  - For 1 year: 9
+  - For 6 or more years: 15
+* Age: 
+  - Max. points: 12
+  - For age 18-35: 12
+* Arranged Employment in Canada: 
+  - Max. points: 10
+  - If you have job offer from relevant employer: 12 (Refer: http://www.esdc.gc.ca/eng/jobs/foreign_workers/higher_skilled/permanent/index.shtml#tab5)
+* Adaptability: 
+  - Max. points: 10
+  - Spouse has CLB level of 4: 5
+  - Job Offer: 5  
+Check Eligibility: 
+  - Refer: http://www.cic.gc.ca/ctc-vac/ee-start.asp
+
+Best Cities in Canada for Software Engineers: 
+- Vancouver (close to Seattle)
+- Toronto (close to NY)
+- Ottawa (close to NY)
+- Montreal (close to NY)
+- Waterloo
+- Mississauga
+- Ontario (far away from US)
+
+## H1B Visa USA: ===============================================
+References: 
+  - http://redbus2us.com/
+
+Details: 
+  - Visa is granted for 3-6 years
+  - Visa holder can bring his/her spouse and children
+  - Currently US allows only 85K visas/year
+
+## Student Visa (F1) in US: ====================================
+  Graduate Program: To obtain Master's degree
+  Undergraduate Program: To obtain Bachelor's degree
+
+Graduate Degrees in Computer Sciences: MS in Computer Sciences (MS-CS)
+
+MS-CS Universities/Colleges:
+http://www.bestvalueschools.com/computer-science-degrees-best-roi/
+http://www.businessinsider.com/best-computer-science-engineering-schools-in-america-2015-7
+http://www.shanghairanking.com/SubjectCS2014.html
+http://grad-schools.usnews.rankingsandreviews.com/best-graduate-schools/top-science-schools/computer-science-rankings
+http://www.thebestschools.org/rankings/20-top-graduate-programs-computer-science-application-process/
+http://www.payscale.com/college-salary-report/best-schools-by-majors/computer-science
+http://www.computersciencedegreehub.com/50-great-cities-studying-computers-technology/
+
+Countries where you can migrate and settle down easily via Student route:
+http://studyabroadcounselling.blogspot.com/2013/06/countries-where-you-can-immigratesettle.html 
 
