@@ -1,0 +1,94 @@
+IELTS Acadamic Exam: 
+Listening Section:
+  - Length: 30 minutes (listening) + 10 minutes (transfer time)
+  - Sections: 
+    - Each section has a recording including instructions and ten-paper based questions
+    - Recording can be heard only once
+    - Questions are always in order in terms of given recording
+    - Difficulty level increases from 1st section to 4th section
+    Section 1: 
+      - Topic: General Topic
+      - People involved: Conversation between 2 people
+    Section 2: 
+      - Topic: General Topic
+      - People involved: Monologue
+    Section 3: 
+      - Topic: Education Topic
+      - People involved: 2/3/4
+    Section 4:
+      - Topic: Academic Topic
+      - Poeple involved: Lecture
+    Parts within each Section:
+      - There are 2 parts within each Section
+      - In each part there are 5 questions
+      - Before each part you get 30 seconds to go through Questions
+      - After end of each Section you get 30 seconds to check your Answers
+    Question Types: (there are 7 question types)
+      - 
+    Scoring: 1 point per correct answer and no negative marking
+    Take care of: 
+      - Important things:
+        - Factual information
+        - Who said what and what's his/her opinion
+        - Summary/Conclusion
+    Strategy: 
+      - Before Listening a recording: (30s pause)
+        - Go through the Questions of that part (5 Questions)
+        - Pay attention to speaker name in Question
+      - While Listening a recording:
+        - Pay attention from the first sentence of Recording
+        - You should be aware of atleast next two un-answered questions (as there are chances that within the same sentence you can get answer to two questions)
+        - Answer on 'Question Paper' while listening
+        - 'Grammar', 'Spellings' and 'Words Limit' are important in answers
+      - Checking Answers after Listening to whole Section: (30s pause)
+        - Check Answering Rules (Options/Words, Word limit, Positive/Negative)
+        - Check that you haven't used words instead of option letters where options letters are supposed to be entered
+        - Check that you have not exceded the word limit
+        - Check that grammer is correct
+      - Transer Time at the end of 4th Section: 10 minutes
+        - Before transfering each Answer make sure that you answerd as per Answering Rules
+        - Transfer answers from 'Question Paper' to 'Answer Paper'
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  - International English Language Testing System
+  - Offers both academic english (tough) as well as general test (easy)
+  - For UK, Australia and other countries from the Commonwealth. 
+  - Score valid for 2 years
+  - Paper based exam (You need to scribble), different type of questions (MCQ, gap filling, short essay, etc.), you interact with examiner. 
+  - Duration: 2 hrs + 40 mins
+  - Rating between 0 to 9 (you need atleast 6.5)
+  - IELTS General Training Exam Pattern:
+    - Speaking
+      - Time: 11-14 minutes
+      - Part 1: Introduction and Interview (4-5 minutes)
+      - Part 2: Individual Long Run (3-4 minutes)
+      - Part 3: Two-way discussion (4-5 minutes)
+    - Listening
+      - Time: 30 minutes + 10 minutes transfer time
+      - 40 questions of 1 mark each
+      - Section 1: Dialog
+      - Section 2: Monolog
+      - Section 3: Conversation between upto four people
+      - Section 4: Monolog on an academic subject
+      - Note: Each section is heard only once
+    - General Training Reading
+      - Time: 60 minutes
+      - 40 questions of 1 mark each
+      - Section 1: 
+      - Section 2: 
+      - Section 3: 
+    - General Training Writing
+      - Time: 60 minutes
+      - 2 tasks
+      - Task 1: Atleast 150 words
+      - Task 2: Atleast 250 words
+      - Note: Task 2 contributes twice as much as Task 1 to writing score

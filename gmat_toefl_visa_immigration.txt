@@ -55,39 +55,6 @@ TOEFL:
   - Duration: 4 hrs
   - Score out of 120 (you need atleast 85)
 IELTS: 
-  - International English Language Testing System
-  - Offers both academic english (tough) as well as general test (easy)
-  - For UK, Australia and other countries from the Commonwealth. 
-  - Score valid for 2 years
-  - Paper based exam (You need to scribble), different type of questions (MCQ, gap filling, short essay, etc.), you interact with examiner. 
-  - Duration: 2 hrs + 40 mins
-  - Rating between 0 to 9 (you need atleast 6.5)
-  - IELTS General Training Exam Pattern:
-    - Speaking
-      - Time: 11-14 minutes
-      - Part 1: Introduction and Interview (4-5 minutes)
-      - Part 2: Individual Long Run (3-4 minutes)
-      - Part 3: Two-way discussion (4-5 minutes)
-    - Listening
-      - Time: 30 minutes + 10 minutes transfer time
-      - 40 questions of 1 mark each
-      - Section 1: Dialog
-      - Section 2: Monolog
-      - Section 3: Conversation between upto four people
-      - Section 4: Monolog on an academic subject
-      - Note: Each section is heard only once
-    - General Training Reading
-      - Time: 60 minutes
-      - 40 questions of 1 mark each
-      - Section 1: 
-      - Section 2: 
-      - Section 3: 
-    - General Training Writing
-      - Time: 60 minutes
-      - 2 tasks
-      - Task 1: Atleast 150 words
-      - Task 2: Atleast 250 words
-      - Note: Task 2 contributes twice as much as Task 1 to writing score
     Note: If you provide proof of your application to CIC (Citizenship and Immigration Canada), you will get one addition Test Report Format (TRF). This can be done afterwards as well. 
 Note: People generally say IELTS is easier than TOEFL. IELTS exam tend to follow same pattern again and again. In TOEFL it is tough to maintain concentration for 60 min listening session, whereas IELTS listening section is only for 30 mins. 
 References:
